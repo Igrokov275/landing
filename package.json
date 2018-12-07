@@ -1,0 +1,19 @@
+{
+  "name": "itvdnlanding",
+  "version": "1.0.0",
+  "description": "This is landing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Igrokov275/landing.git"
+  },
+  "author": "Igrok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Igrokov275/landing/issues"
+  },
+  "homepage": "https://github.com/Igrokov275/landing#readme"
+}
